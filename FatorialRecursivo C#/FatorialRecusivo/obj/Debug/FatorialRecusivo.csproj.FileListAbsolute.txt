@@ -1,0 +1,7 @@
+C:\Users\leonardo.neres\source\repos\FatorialRecusivo\FatorialRecusivo\bin\Debug\FatorialRecusivo.exe.config
+C:\Users\leonardo.neres\source\repos\FatorialRecusivo\FatorialRecusivo\bin\Debug\FatorialRecusivo.exe
+C:\Users\leonardo.neres\source\repos\FatorialRecusivo\FatorialRecusivo\bin\Debug\FatorialRecusivo.pdb
+C:\Users\leonardo.neres\source\repos\FatorialRecusivo\FatorialRecusivo\obj\Debug\FatorialRecusivo.csproj.AssemblyReference.cache
+C:\Users\leonardo.neres\source\repos\FatorialRecusivo\FatorialRecusivo\obj\Debug\FatorialRecusivo.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.neres\source\repos\FatorialRecusivo\FatorialRecusivo\obj\Debug\FatorialRecusivo.exe
+C:\Users\leonardo.neres\source\repos\FatorialRecusivo\FatorialRecusivo\obj\Debug\FatorialRecusivo.pdb
