@@ -1,0 +1,10 @@
+C:\Users\leonardo.neres\source\repos\SistemaDeCadastro\SistemaDeCadastro\bin\Debug\SistemaDeCadastro.exe.config
+C:\Users\leonardo.neres\source\repos\SistemaDeCadastro\SistemaDeCadastro\bin\Debug\SistemaDeCadastro.exe
+C:\Users\leonardo.neres\source\repos\SistemaDeCadastro\SistemaDeCadastro\bin\Debug\SistemaDeCadastro.pdb
+C:\Users\leonardo.neres\source\repos\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.csproj.AssemblyReference.cache
+C:\Users\leonardo.neres\source\repos\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.Form1.resources
+C:\Users\leonardo.neres\source\repos\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.Properties.Resources.resources
+C:\Users\leonardo.neres\source\repos\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.csproj.GenerateResource.cache
+C:\Users\leonardo.neres\source\repos\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.neres\source\repos\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.exe
+C:\Users\leonardo.neres\source\repos\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.pdb
