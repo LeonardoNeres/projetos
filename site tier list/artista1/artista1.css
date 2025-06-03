@@ -1,0 +1,87 @@
+body {
+  background: #1e1e1e;
+  color: white;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#sortable-list {
+  list-style: none;
+  padding: 0;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.music-item {
+  background-color: #333;
+  padding: 12px 20px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  cursor: grab;
+  user-select: none;
+  transition: background 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.music-item .drag-handle {
+  font-size: 18px;
+  color: #aaa;
+  cursor: grab;
+  flex-shrink: 0;
+}
+
+.play-btn {
+  margin-left: auto;
+  background: #555;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.play-btn:hover {
+  background: #777;
+}
+
+#player-container {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+#player-container iframe {
+  width: 100%;
+  max-width: 560px;
+  height: 315px;
+  border: none;
+  border-radius: 8px;
+}
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #4e4a4a;
+    padding: 10px 0;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn-voltar {
+    margin-left: 20px;
+    text-decoration: none;
+    color: #000;
+    font-size: 16px;
+}
+
